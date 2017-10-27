@@ -44,7 +44,7 @@
          重启MySQL服务,可能会失败,启动两次
 
 #### 查看修改是否成功:
-  启动mysql服务器:
-                 sudo service mysql start
-  进入mysql:                 
-                 mysql -uroot -p
+     启动mysql服务器:
+                   sudo service mysql start
+     进入mysql:                 
+                   mysql -uroot -p
